@@ -1,0 +1,16 @@
+[theme]
+# A professional, medical blue
+primaryColor="#0068C9"
+
+# A light grey for the main background
+backgroundColor="#F0F2F6"
+
+# A clean white for the sidebar and other elements
+secondaryBackgroundColor="#FFFFFF"
+
+# Dark text for readability
+textColor="#31333F"
+
+# Font
+font="sans serif"
+
