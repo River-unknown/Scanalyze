@@ -48,8 +48,8 @@ This project is a single-page web application built entirely in Python, leveragi
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/scanalyze-app.git](https://github.com/your-username/scanalyze-app.git)
-    cd scanalyze-app
+    git clone [https://github.com/River-unknown/Scanalyze.git](https://github.com/River-unknown/Scanalyze.git)
+    cd Scanalyze
     ```
 
 2.  **Create and activate a virtual environment:**
